@@ -26,8 +26,7 @@
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on **Machine Learning Project**.
 - 🤔 I’m looking for help with learning Mathematics .
-- 💬 Ask me about Android or any tech related stuff.
-- 😄 Pronouns: He/His
+- 💬 Ask me about Android, ML or any tech related stuff.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
@@ -46,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarmanBhutani&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/HarmanBhutani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dracula&line_height=27" alt="Harman Bhutani's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarmanBhutani&show_icons=true&theme=dracula&line_height=27" alt="Harman Bhutani's github stats"/>
 </a>
 <a href="https://github.com/iampawan/FlutterExampleApps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarmanBhutani&repo=FlutterExampleApps&theme=dark" />
