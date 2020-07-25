@@ -22,9 +22,9 @@
 
 
 
-- 🔭 I’m currently working on [Data Science].
+- 🔭 I’m currently working on **Data Science**.
 - 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on [Machine Learning Project].
+- 👯 I’m looking to collaborate on **Machine Learning Project**.
 - 🤔 I’m looking for help with learning Mathematics .
 - 💬 Ask me about Android or any tech related stuff.
 - 😄 Pronouns: He/His
