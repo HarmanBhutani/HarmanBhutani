@@ -47,13 +47,6 @@
 <a href="https://github.com/HarmanBhutani">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarmanBhutani&show_icons=true&theme=dracula&line_height=27" alt="Harman Bhutani's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarmanBhutani&repo=FlutterExampleApps&theme=dark" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HarmanBhutani&repo=VelocityX&theme=dark" />
-</a>
 
 <div align="center">
 
