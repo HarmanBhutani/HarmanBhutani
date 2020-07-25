@@ -22,12 +22,12 @@
 
 
 
-- 🔭 I’m currently working in **Data Science**.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate on **Machine Learning Project**.
-- 🤔 I’m looking for help with learning Mathematics .
-- 💬 Ask me about Android, ML or any tech related stuff.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+-  I’m currently working in **Data Science**.
+-  I’m currently learning React.
+-  I’m looking to collaborate on **Machine Learning Project**.
+-  I’m looking for help with learning Mathematics .
+-  Ask me about Android, ML or any tech related stuff.
+-  Fun fact: I spend almost 12 hours listening songs everyday.
 
 
 
