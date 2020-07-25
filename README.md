@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I’m currently working on **Data Science**.
+- 🔭 I’m currently working in **Data Science**.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on **Machine Learning Project**.
 - 🤔 I’m looking for help with learning Mathematics .
