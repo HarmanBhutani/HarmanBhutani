@@ -24,10 +24,10 @@
 
 -  I’m currently working in **Data Science**.
 -  I’m currently learning React.
--  I’m looking to collaborate on **Machine Learning Project**.
--  I’m looking for help with learning Mathematics .
+-  I’m looking to collaborate on any **Machine Learning Project**.
+-  I’m looking for help with learning Mathematics and Statistics.
 -  Ask me about Android, ML or any tech related stuff.
--  Fun fact: I spend almost 12 hours listening songs everyday.
+-  PS: My favorite food is a circle cut into triangles warped in a square i.e. pizza.
 
 
 
