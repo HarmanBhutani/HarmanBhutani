@@ -15,6 +15,9 @@
 <a href="https://www.facebook.com/harman.bhutani.3">
   <img align="left" alt="Harman Bhutani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<a href="https://www.kaggle.com/harmanbhutani">
+<img align="left" alt="Harman Bhutani's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kaggle.svg"" />
+</a>                                                                                                                                 
 
 
 <br/>
