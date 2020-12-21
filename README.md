@@ -51,3 +51,30 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarmanBhutani&show_icons=true&theme=dracula&line_height=27" alt="Harman Bhutani's github stats"/>
 </a>
 
+<table><tr><td valign="top" width="50%">
+
+### My Digital Garden 🌱
+You can find my blogs at my [Website](https://ayushirawat.com).
+<!-- BLOG-POST-LIST:START -->
+- [Automate WhatsApp using Python](https://ayushirawat.com/automate-whatsapp-using-python)
+- [Currency Converter using Python](https://ayushirawat.com/currency-converter-using-python)
+- [Work From Home Essentials](https://ayushirawat.com/work-from-home-essentials)
+- [How to Develop a STRATEGY?](https://ayushirawat.com/how-to-develop-a-strategy)
+- [Automate Notion with Python](https://ayushirawat.com/automate-notion-with-python)
+<!-- BLOG-POST-LIST:END -->
+</td>
+<td valign="top" width="45%">
+
+### The Developer Dictionary 🌱
+Check out my latest videos on [YouTube](https://www.youtube.com/ayushirawat):
+<!-- YOUTUBE:START -->
+- [Automate WhatsApp ](https://www.youtube.com/watch?v=muBeg5NE5MQ)
+- [Currency Convertor ](https://www.youtube.com/watch?v=ixB2YHGSiAQ)
+- [How to Automate Notion ](https://www.youtube.com/watch?v=6sJFI8LbhpY)
+- [How to Unzip any File ](https://www.youtube.com/watch?v=cw9r3HLmCbU)
+- [Find IP Address of any Website ](https://www.youtube.com/watch?v=v7JYwG5hdYs)
+<!-- YOUTUBE:END -->
+</td>
+</table>
+
+
