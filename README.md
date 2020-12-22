@@ -57,8 +57,8 @@
 You can find my blogs at my [Medium](https://harmanbhutani.medium.com/).
 <!-- BLOG-POST-LIST:START -->
 - [LSTM for Time-Series Prediction](https://harmanbhutani.medium.com/lstm-for-time-series-prediction-e9a3f914664c)
+- [Identify Flowers using Transfer Learning](https://medium.com/analytics-vidhya/identify-flowers-using-transfer-learning-b1cdf4e7c137)
 - [AI based emotion recognition](https://medium.com/swlh/a-toy-example-of-ai-based-emotion-recognition-to-illustrate-the-basics-of-technology-6fcc3c63be00)
-
 <!-- BLOG-POST-LIST:END -->
 </td>
 
