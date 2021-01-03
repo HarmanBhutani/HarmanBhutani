@@ -54,7 +54,7 @@
 <table><tr><td valign="top" width="50%">
 
 ### My Blogs 
-You can find my blogs at my [Medium](https://harmanbhutani.medium.com/).
+You can find my blogs on [Medium](https://harmanbhutani.medium.com/).
 <!-- BLOG-POST-LIST:START -->
 - [LSTM for Time-Series Prediction](https://harmanbhutani.medium.com/lstm-for-time-series-prediction-e9a3f914664c)
 - [Identify Flowers using Transfer Learning](https://medium.com/analytics-vidhya/identify-flowers-using-transfer-learning-b1cdf4e7c137)
