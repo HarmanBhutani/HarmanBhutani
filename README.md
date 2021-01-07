@@ -60,6 +60,7 @@ You can find my blogs on [Medium](https://harmanbhutani.medium.com/).
 - [Identify Flowers using Transfer Learning](https://medium.com/analytics-vidhya/identify-flowers-using-transfer-learning-b1cdf4e7c137)
 - [AI based emotion recognition](https://medium.com/swlh/a-toy-example-of-ai-based-emotion-recognition-to-illustrate-the-basics-of-technology-6fcc3c63be00)
 - [Machine Learning Books you should read in 2021](https://medium.com/analytics-vidhya/machine-learning-books-you-should-read-in-2021-818d254eca8b)
+- [K-Nearest Neighbors (KNN) for Machine Learning](https://medium.com/analytics-vidhya/k-nearest-neighbors-knn-for-machine-learning-d266d7c43830)
 - [How to run iOS Simulator to run Flutter apps using Android Studio](https://harmanbhutani.medium.com/how-to-run-ios-simulator-to-run-flutter-apps-using-android-studio-77e81ad89c1)
 <!-- BLOG-POST-LIST:END -->
 </td>
