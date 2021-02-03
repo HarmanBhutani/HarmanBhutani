@@ -62,6 +62,7 @@ You can find my blogs on [Medium](https://harmanbhutani.medium.com/).
 - [Machine Learning Books you should read in 2021](https://medium.com/analytics-vidhya/machine-learning-books-you-should-read-in-2021-818d254eca8b)
 - [K-Nearest Neighbors (KNN) for Machine Learning](https://medium.com/analytics-vidhya/k-nearest-neighbors-knn-for-machine-learning-d266d7c43830)
 - [Google 25 million free datasets](https://medium.com/analytics-vidhya/google-25-million-free-datasets-e8ccdd2dcb62)
+- [Deep learning vs. machine learning — What makes them different?](https://medium.com/analytics-vidhya/deep-learning-vs-machine-learning-what-makes-them-different-c5cd8cd5ef9d)
 - [How to run iOS Simulator to run Flutter apps using Android Studio](https://harmanbhutani.medium.com/how-to-run-ios-simulator-to-run-flutter-apps-using-android-studio-77e81ad89c1)
 <!-- BLOG-POST-LIST:END -->
 </td>
