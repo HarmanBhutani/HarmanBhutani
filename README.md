@@ -32,6 +32,8 @@
 -  Ask me about Android, ML or any tech related stuff.
 -  PS: My favorite food is a circle cut into triangles warped in a square i.e. pizza.
 
+- 📝 [Resume](https://github.com/HarmanBhutani/HarmanBhutani.github.io/blob/master/assets/Harman-Resume.pdf)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarmanBhutani&label=Profile%20views&color=0e75b6&style=flat" alt="HarmanBhutani" /> </p>
 
 
