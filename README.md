@@ -1,5 +1,5 @@
 <h1 align="center">Harman Bhutani</h1>
-<h3 align="center">Senior Software Engineer · Java &amp; Spring Boot · AWS · AI / LLM Applications</h3>
+<h3 align="center">Senior Software Engineer · AI / Machine Learning Applications</h3>
 
 <p align="center">Toronto, Canada · Backend, cloud and full-stack engineering with a growing focus on Generative AI and agentic systems</p>
 
